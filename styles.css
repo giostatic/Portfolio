@@ -15,12 +15,11 @@ body{
 }
 
 #questions{
-  display: inline-block;
   overflow-wrap: break-word;
   hyphens: auto;
 }
 
 ul{
-
+  list-style-type: none;
   border-color: black;
 }
