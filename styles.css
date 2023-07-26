@@ -14,9 +14,9 @@ body{
   background-color: aqua;
 }
 
-p{
+#questions{
+  display: inline-block;
   overflow-wrap: break-word;
-  inline-size: 150px;
   hyphens: auto;
 }
 
