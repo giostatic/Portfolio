@@ -17,7 +17,7 @@ body{
 #questions{
   overflow-wrap: break-word;
   hyphens: auto;
-  border:0 solid rgb(0 0 0);
+  border:5px solid rgb(0 0 0);
 }
 
 #questions p{
