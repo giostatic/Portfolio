@@ -18,10 +18,11 @@ div#questions{
   overflow-wrap: break-word;
   hyphens: auto;
   border: 5px solid black;
-  border-radius: 30px;
-  display: inline-block;
+  border-radius: 20px;
+  background-color: aquamarine;
+  width: 940px;
   padding: 0;
-  margin: 0;
+  margin: auto;
 }
 
 #questions p{
