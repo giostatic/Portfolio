@@ -24,7 +24,7 @@ body{
 }
 
 #questions p{
-  display: inline-block; /*will prevent paragph tags from occupying whole width of container */
+  display: block; /*will prevent paragph tags from occupying whole width of container */
   padding: 0;
   margin: 0;
 }
