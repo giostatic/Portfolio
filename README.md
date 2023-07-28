@@ -15,7 +15,9 @@ https://www.theodinproject.com/lessons/foundations-setting-up-git
 I have learned a lot of HTML and CSS from freecodecamp and code academy, but the structure of the two sites has not been working for me especially because I feel like I have been working in their respective IDEs for so long. Though, the reason I am tutorial switching again is because I think I feel a bit more confident now, but I need someone to hold my hands when trying to work on my first project. Hopefully Odin project does just that for me. So I am not starting at 0, I am starting with some knowledge.
 Though, this is helpful to know:
 `<a href="https://www.theodinproject.com/about" target="_blank" rel="noopener noreferrer">click me</a>`
+
 Use these attributes to open links in a new tab. Here's a few more notes on the attributes in the new tab:
+    
     The noopener value prevents the opened link from gaining access to the webpage from which it was opened. The noreferrer value prevents the opened link from knowing which webpage or resource has a link (or ‘reference’) to it. It also includes the noopener behaviour and thus can be used by itself as well.
 
 
