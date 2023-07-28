@@ -15,13 +15,19 @@ body{
 }
 
 #questions{
+  display: block;
   overflow-wrap: break-word;
   hyphens: auto;
   background-color: aquamarine;
-  border:10px solid;
-  border-radius: 25% 25%;
+  border: 5px solid black;
+  border-radius: 30px;
   padding: 0;
   margin: 0;
+}
+
+#questions p{
+  padding: 0;
+  margin: 0;;
 }
 
 ul{
