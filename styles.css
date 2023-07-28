@@ -15,10 +15,8 @@ body{
 }
 
 #questions{
-  display: block;
   overflow-wrap: break-word;
   hyphens: auto;
-  background-color: aquamarine;
   border: 5px solid black;
   border-radius: 30px;
   padding: 0;
@@ -26,8 +24,9 @@ body{
 }
 
 #questions p{
+  display: inline-block; /*will prevent paragph tags from occupying whole width of container */
   padding: 0;
-  margin: 0;;
+  margin: 0;
 }
 
 ul{
