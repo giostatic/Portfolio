@@ -23,3 +23,7 @@ Use these attributes to open links in a new tab. Here's a few more notes on the 
 
 # Odin project 1: Recipes
 
+Project was really easy. I can use this site as a base page for recipes I like cooking though. Good to keep as a sort of blog for any food I like cooking. Can be updated to be more interactive as a dish for the week decider, should update with all recipes that I do like that way it can help automate what I want to make for dinner throught the week.
+
+Right now its just pure HTML, but would be good to incorporate CSS and interactivity in the future...Update read me when we get there.
+
